@@ -3,7 +3,6 @@
 This repository contains simulations developed to explore the **Veyra-Barandes Toroidal Black Hole / Resonance framework**, focusing on how resonance fields and interference patterns can generate sky-like and cosmic-like visuals.  
 
 The repo includes:
-- **Research paper (PDF/LaTeX)** — the theoretical framework.
 - **Simulations**:
   - `app.py` — interactive **Streamlit app** with multiple tabs.
   - `interference_field_generator.py` — standalone generator/CLI for interference fields and starfields.
