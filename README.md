@@ -72,3 +72,6 @@ pip install -r requirements.txt
 ## 🌌 Notes
 - Images and starfields are **illustrative** — they visualize resonance and interference patterns but are not direct astrophysical catalogs.
 - Output PNGs include optional metadata sidecars (`.json`) describing parameters used to generate them.
+
+## License
+This project is licensed under the Apache 2.0 License – see the [Apache License 2.0](LICENSE) file for details.
