@@ -74,4 +74,4 @@ pip install -r requirements.txt
 - Output PNGs include optional metadata sidecars (`.json`) describing parameters used to generate them.
 
 ## License
-This project is licensed under the Apache 2.0 License – see the [Apache License 2.0](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License – see the [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) file for details.
